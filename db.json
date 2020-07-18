@@ -29,13 +29,78 @@
         "role":"Devops", 
         "genre":"masculino" , 
         "phone":"+244 915 210 423"
+      }, 
+      {
+        "id":5,
+        "name":"anamolif",
+        "role":"Devops", 
+        "genre":"feminino" , 
+        "phone":"+244 916 345 602" 
+      }, 
+      {
+        "id":6,
+        "name":"Adilson Futa",
+        "role":"Devops", 
+        "genre":"masculino" , 
+        "phone":"+244 992 392 875" 
+      }, 
+      {
+        "id":7,
+        "name":"Inocencio Carlos",
+        "role":"Devops", 
+        "genre":"masculino" , 
+        "phone":"+244 925 512 252" 
+      },
+      {
+        "id":8,
+        "name":"Edson cabina",
+        "role":"Devops", 
+        "genre":"masculino" , 
+        "phone":"+244 998 468 525" 
+      },
+      {
+        "id":9,
+        "name":"Borges",
+        "role":"Devops", 
+        "genre":"masculino" , 
+        "phone":"+244 995 433 374" 
+      }, 
+      {
+        "id":10,
+        "name":"Mario",
+        "role":"Devops", 
+        "genre":"masculino" , 
+        "phone":"+244 921 717 216" 
       } 
-        
-      
-    ] , 
-    "professor":{
-      "name":"Dario Andrade" , 
-      "role":"master"
-    }
-
+    ], 
+    "professor":[
+      {
+        "name":"Dario Andrade" , 
+        "role":"master guide"
+      }
+    ],
+    "company":[
+       {
+         "name":"Jupiter",
+         "Categoria":[
+           {
+             "id":1,
+             "name":"Angular Dev"
+           },
+           {
+            "id":2,
+            "name":"Flutter Dev"
+          },
+          {
+            "id":3,
+            "name":"Python Dev"
+          }
+          ,
+          {
+            "id":4,
+            "name":"Data analist"
+          }
+         ]
+       }
+    ]
 }
