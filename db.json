@@ -1,0 +1,41 @@
+{
+  
+    "newemployers":[
+     {
+      "id":1,
+      "name":"Erica",
+      "role":"Devops", 
+      "genre":"feminino" , 
+      "phone":"+244 936 958 989"
+      } , 
+      {
+        "id":2,
+        "name":"hilquiachitazo",
+        "role":"Devops", 
+        "genre":"masculino" , 
+        "phone":"+244 923 058 250"
+      },
+      {
+        "id":3,
+        "name":"namaliji",
+        "role":"Devops", 
+        "genre":"masculino" , 
+        "phone":"+244 915 210 423"
+      }
+      ,
+      {
+        "id":4,
+        "name":"namaliji",
+        "role":"Devops", 
+        "genre":"masculino" , 
+        "phone":"+244 915 210 423"
+      } 
+        
+      
+    ] , 
+    "professor":{
+      "name":"Dario Andrade" , 
+      "role":"master"
+    }
+
+}
